@@ -1,8 +1,34 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/mike/Challenges/bookmark_challenge/spec/bookmark_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/mike/Challenges/bookmark_challenge/spec/features/testing_infustructure_spec.rb": [
         null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/mike/Challenges/bookmark_challenge/spec/features/view_bookmarks_spec.rb": [
+        null,
+        1,
+        1,
         1,
         1,
         1,
@@ -11,6 +37,6 @@
         null
       ]
     },
-    "timestamp": 1562242557
+    "timestamp": 1562253513
   }
 }
