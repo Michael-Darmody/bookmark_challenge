@@ -3,33 +3,52 @@
     "coverage": {
       "/Users/mike/Challenges/bookmark_challenge/spec/bookmark_spec.rb": [
         1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
         null,
         1,
         1,
         1,
         1,
         1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        1,
-        1,
         null,
         null,
         null,
         1,
         1,
         1,
+        1,
         null,
+        1,
+        1,
+        1,
         1,
         null,
         null,
         null
       ],
+      "/Users/mike/Challenges/bookmark_challenge/spec/database_helpers.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null
+      ],
       "/Users/mike/Challenges/bookmark_challenge/spec/features/create_bookmark_spec.rb": [
         null,
+        1,
         1,
         1,
         1,
@@ -65,6 +84,6 @@
         null
       ]
     },
-    "timestamp": 1562453057
+    "timestamp": 1562600656
   }
 }
